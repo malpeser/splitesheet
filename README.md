@@ -1,0 +1,2 @@
+# splitesheet
+Simple spritesheet splitter
